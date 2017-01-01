@@ -3,7 +3,7 @@ Bookapp.  A library management app.
 ===================================
 :Info: This is the README file for Bookapp.
 :Author: Chris Warrick <chris@chriswarrick.com>
-:Copyright: © 2016, Chris Warrick.
+:Copyright: © 2016-2017, Chris Warrick.
 :Date: 2016-08-07
 :Version: 0.1.0
 
@@ -24,7 +24,7 @@ USAGE
 
 COPYRIGHT
 ---------
-Copyright © 2016, Chris Warrick.
+Copyright © 2016-2017, Chris Warrick.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
