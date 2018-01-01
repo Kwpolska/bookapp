@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Bookapp v0.1.0
 # A library management app.
-# Copyright © 2016-2017, Chris Warrick.
+# Copyright © 2016-2018, Chris Warrick.
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -35,7 +35,7 @@
 """
 A library management app.
 
-:Copyright: © 2016-2017, Chris Warrick.
+:Copyright: © 2016-2018, Chris Warrick.
 :License: BSD (see /LICENSE).
 """
 
